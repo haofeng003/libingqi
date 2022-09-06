@@ -1,10 +1,10 @@
 {
 # @公众号配置
 # 一、公众号appId
-"app_id": "wx9fc96add35ce6d59",
+"app_id": "wx58d872f2e198633e",
 
 # 二、公众号appSecret
-"app_secret": "294a9c13783451a21e1c0926b5c0115a",
+"app_secret": "8475a5bdf4bb63ab4f779957140a3b48",
 
 # 三、模板消息id
 "template_id": "6Isf1eLp63dqRYiWWwjuyze1JOt2jR0sCVPUq9G8PkE",
